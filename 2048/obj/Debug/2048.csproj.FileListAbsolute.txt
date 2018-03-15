@@ -1,0 +1,12 @@
+c:\users\julian\documents\visual studio 2013\Projects\2048\2048\bin\Debug\2048.exe.config
+c:\users\julian\documents\visual studio 2013\Projects\2048\2048\bin\Debug\2048.exe
+c:\users\julian\documents\visual studio 2013\Projects\2048\2048\bin\Debug\2048.pdb
+c:\users\julian\documents\visual studio 2013\Projects\2048\2048\obj\Debug\_2048._2048Board.resources
+c:\users\julian\documents\visual studio 2013\Projects\2048\2048\obj\Debug\_2048.Application2048.resources
+c:\users\julian\documents\visual studio 2013\Projects\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+c:\users\julian\documents\visual studio 2013\Projects\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+c:\users\julian\documents\visual studio 2013\Projects\2048\2048\obj\Debug\2048.exe
+c:\users\julian\documents\visual studio 2013\Projects\2048\2048\obj\Debug\2048.pdb
+c:\users\julian\documents\visual studio 2013\Projects\2048\2048\obj\Debug\_2048._2048Tile.resources
+c:\users\julian\documents\visual studio 2013\Projects\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
